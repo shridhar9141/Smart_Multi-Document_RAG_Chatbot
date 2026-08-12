@@ -1,2 +1,2 @@
 # Smart_Multi-Document_RAG_Chatbot
-It fits because your project includes conversational memory, hybrid retrieval, reranking, image RAG, and multiple document formats
+An AI-powered RAG chatbot that can remember conversations and retrieve relevant information from multiple documents using keyword and vector search. It also uses reranking to improve the accuracy and relevance of answers.
