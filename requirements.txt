@@ -1,0 +1,13 @@
+streamlit
+langchain==0.3.27
+langchain-core==0.3.75
+langchain-community==0.3.29
+langchain-groq==0.3.7
+langchain-huggingface==0.3.1
+langchain-chroma==0.2.5
+langchain-text-splitters==0.3.9
+sentence-transformers==5.1.0
+chromadb
+pypdf
+python-dotenv
+rank-bm25
